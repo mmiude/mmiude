@@ -15,7 +15,7 @@ My repositories are a chronological map of my training:
 ---
 
 ## 🏆 Great Jedi Trials (Featured Projects)
-* **🌍 International Sensor Development:** A high-stakes collaboration with a **Osnabrück University**. 
+* **🌍 International Sensor Development:** Collaboration with a **Osnabrück University**. 
 * **🌿 The Greenhouse CO2 Controller:** A Greenhouse Fertilization system built entirely with **C++ and FreeRTOS**. 
 * **✨ Current Mission:** Designing my very first **IoT device from scratch**. 
 
@@ -24,12 +24,7 @@ My repositories are a chronological map of my training:
 ## 🛠️ My Tech Stack
 * **Languages:** `C++` (Wizard in training), `C`, `Python`
 * **Force Powers:** FreeRTOS 
-* **Tools:** RP2040, ESP32, Git, and a healthy dose of caffeine.
+* **Tools used:** RP2040, ESP32, Git, and a healthy dose of caffeine.
 
 ---
 
-## 📈 Status Report
-> **Current Objective:** Mastering memory management without falling to the Dark Side (Memory Leaks). 
-> **Energy Level:** Excited as f*** about Embedded Systems.
-
----
