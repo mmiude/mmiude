@@ -22,7 +22,7 @@ My repositories are a chronological map of my training:
 ---
 
 ## 🛠️ My Tech Stack
-* **Languages:** `C++` (Wizard in training), `C`, `Python`
+* **Languages:** `C++`, `C`, `Python`
 * **Force Powers:** FreeRTOS 
 * **Tools used:** RP2040, ESP32, Git, and a healthy dose of caffeine.
 
