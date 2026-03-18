@@ -2,7 +2,7 @@
 
 ### "The Force is what gives an Embedded Engineer her power..." 🦄✨
 
-I'm a **3rd Year Student at Metropolia University of Applied Sciences** 🇫🇮, and I'm obsessed with bringing hardware to life. To me, **FreeRTOS isn't just a kernel—it's pure magic.** My GitHub is a living record of my journey from a scavenger to a hardware sorcerer (work in progress).
+I'm a **3rd Year Student at Metropolia University of Applied Sciences**, and I'm obsessed with bringing hardware to life. To me, **FreeRTOS isn't just a kernel—it's pure magic.** My GitHub is a living record of my journey from a scavenger to a hardware sorcerer (work in progress).
 
 ---
 
