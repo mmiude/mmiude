@@ -15,7 +15,7 @@ My repositories are a chronological map of my training:
 ---
 
 ## 🏆 Great Jedi Trials (Featured Projects)
-* **🌍 International Sensor Development:** Collaboration with a **Osnabrück University**. 
+* **🌍 International Sensor Development Project:** Collaboration with a **Osnabrück University**. 
 * **🌿 The Greenhouse CO2 Controller:** A Greenhouse Fertilization system built entirely with **C++ and FreeRTOS**. 
 * **✨ Current Mission:** Designing my very first **IoT device from scratch**. 
 
