@@ -1,16 +1,35 @@
-## Hi there 👋
+# 🧙‍♂️ git commit -m "Become a C++ Wizard"
 
-<!--
-**mmiude/mmiude** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+### "The Force is what gives an Embedded Engineer her power..." 🦄✨
 
-Here are some ideas to get you started:
+I'm a **3rd Year Student at Metropolia University of Applied Sciences** 🇫🇮, and I'm obsessed with bringing hardware to life. To me, **FreeRTOS isn't just a kernel—it's pure magic.** My GitHub is a living record of my journey from a scavenger to a hardware sorcerer (work in progress).
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+---
+
+## 🤖 My Droid Factory (The Learning Journey)
+My repositories are a chronological map of my training:
+* **The Outer Rim:** My first steps into the world of **C**. Basic logic, messy pointers, and a lot of "it works!" moments.
+* **The Jedi Temple:** Moving into **C++**. Learning objects, classes, and cleaner architecture.
+* **Mastering the Force:** Entering the realm of **FreeRTOS**. Learning task scheduling, mutexes, and real-time magic.
+
+---
+
+## 🏆 Great Jedi Trials (Featured Projects)
+* **🌍 International Sensor Development:** A high-stakes collaboration with a **Osnabrück University**. 
+* **🌿 The Greenhouse CO2 Controller:** A Greenhouse Fertilization system built entirely with **C++ and FreeRTOS**. 
+* **✨ Current Mission:** Designing my very first **IoT device from scratch**. 
+
+---
+
+## 🛠️ My Tech Stack
+* **Languages:** `C++` (Wizard in training), `C`, `Python`
+* **Force Powers:** FreeRTOS 
+* **Tools:** RP2040, ESP32, Git, and a healthy dose of caffeine.
+
+---
+
+## 📈 Status Report
+> **Current Objective:** Mastering memory management without falling to the Dark Side (Memory Leaks). 
+> **Energy Level:** Excited as f*** about Embedded Systems.
+
+---
